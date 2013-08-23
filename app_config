@@ -1,0 +1,10 @@
+twitter:
+  app_token:
+  app_secret:
+  access_token:
+  access_secret:
+
+appdotnet:
+  access_token:
+
+debug: False
