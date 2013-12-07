@@ -36,3 +36,7 @@ To access the app in your web browser go to any of the following:
 - http://localhost:5000/feeds/appdotnet
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/froi/flask_twitter_appdotnet_example/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
